@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#999">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Options:"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        android:layout_marginBottom="20dp"/>
+    <Switch
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sound  "
+        android:textSize="30dp"
+        android:id="@+id/swSound"/>
+    <Switch
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vibration  "
+        android:textSize="30dp"
+        android:id="@+id/swVibration"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Exit"
+        android:textAllCaps="false"
+        android:textSize="30dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/btnExit"/>
+</LinearLayout>
