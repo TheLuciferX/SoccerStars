@@ -13,6 +13,8 @@ SoccerStars is an android application, based on the game SoccerStars by MiniClip
 
 ## Play Showcase
 
+![](https://github.com/TheLuciferX/SoccerStars/blob/master/gifs/gameplay.gif)
+
 ## Diagram
 
 ![](https://github.com/TheLuciferX/SoccerStars/blob/master/gifs/uml1.png)
