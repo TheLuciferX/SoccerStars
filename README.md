@@ -3,13 +3,16 @@
 SoccerStars is an android application, based on the game SoccerStars by MiniClip.
 
 * [About & Features](#about--features)
-* [Ingame Screens](#ingame-showcase)
-* [Play Showcase](#multiplayer)
-* [Diagram](#ingame-multiplayer-examples)
+* [Play Showcase](#play-showcase)
+* [Diagram](#diagram)
 
 ## About & Features
 
-## Ingame Screens
+So what's this game is all about?
+* This game is based off of Miniclip's Soccer Stars.
+* Contains options to change ball colour, player colours, and player formations.
+* First player to reach 5 points wins.
+
 
 ## Play Showcase
 
